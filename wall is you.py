@@ -184,7 +184,6 @@ def rencontre(aventurier: dict, dragons: dict, dragon_pos: list, dragon_dict: di
                      return True
               else:
                      # aventurier tué
-                     print("l'aventurier est tué!")
                      return False
 
 
